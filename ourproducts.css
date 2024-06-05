@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-color-Ecommerce-website {
+    background-color: white;
+    padding: 10px;
+}
+
+.main-heading-product-section {
+    font-size: 24px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.product-sections-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+
+    background-size: cover;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.product-name-main-heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    height: 30px;
+    width: 80px;
+
+}
+
+.product-name-paragraph {
+    font-size: 18px;
+
+    color: white;
+
+}
+
+.button-style {
+    background-color: white;
+
+    color: #ff9f00;
+    border-radius: 18px;
+    border-color: white;
+    height: 40px;
+    width: 110px;
+
+}
+
+.product-sections-image-2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+
+    background-size: cover;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.view-more-button-deatial-style-heading {
+    font-size: 18px;
+    color: black;
+}
+
+.view-more-button-deatials-style-paragraph {
+    font-size: 15px;
+
+
+}
